@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyStore.DAL", "SpyStore.DAL\SpyStore.DAL.csproj", "{1AA42369-F91C-45E2-8192-7A6FF4B625D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyStore.Models", "SpyStore.Models\SpyStore.Models.csproj", "{BFA46B4E-AC96-4474-9F1C-6ADB9E89E765}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1AA42369-F91C-45E2-8192-7A6FF4B625D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AA42369-F91C-45E2-8192-7A6FF4B625D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AA42369-F91C-45E2-8192-7A6FF4B625D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA46B4E-AC96-4474-9F1C-6ADB9E89E765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA46B4E-AC96-4474-9F1C-6ADB9E89E765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA46B4E-AC96-4474-9F1C-6ADB9E89E765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA46B4E-AC96-4474-9F1C-6ADB9E89E765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
